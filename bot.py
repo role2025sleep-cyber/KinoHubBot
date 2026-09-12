@@ -18,7 +18,7 @@ from aiogram.types import (
 
 BOT_TOKEN = "8772793059:AAEPQqgOCQiggh0FKnJreW6atVJv28rD2o4"
 
-ADMIN_USERNAME = "skylinx"
+ADMIN_USERNAME = "skylinix"
 
 DATA_FILE = "data.json"
 
